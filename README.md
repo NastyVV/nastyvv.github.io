@@ -1,24 +1,12 @@
-# nastyvv.github.io
+Практическая работа по информатике
 
-## Project setup
-```
-npm install
-```
+для работы с данным проектом потребуется установленный "NodeJS"
+https://nodejs.org/ru/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Перед первым запуском выполнить команду ```npm install``` для установки всех зависимостей
 
-### Compiles and minifies for production
-```
-npm run build
-```
+для того чтобы скомпелировать проект необходимо выполнить команду ```npm run build```
+ 
+для того, чтобы войти в режим разработки или посмотреть сайт без установки его на хостинг необходимо выполнить команду ```npm run serve```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+после выполнения билда.ю результат находится в папке /dist
