@@ -3,7 +3,7 @@ import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import Dopmat from '../views/Dopmaterial.vue'
 import Practic from '../views/Practic.vue'
-import Tests from '../views/Tests.vue'
+import Testik from '../views/Testik.vue'
 import Teoriya from '../views/Teoriya.vue'
 Vue.use(VueRouter)
 
@@ -24,9 +24,9 @@ const routes = [
     component: Practic
   },
   {
-    path: '/tests"',
-    name: 'Tests',
-    component: Tests
+    path: '/testik"',
+    name: 'Testik',
+    component: Testik
   },
   {
     path: '/theory',

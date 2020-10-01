@@ -8,6 +8,7 @@
 </template>
 
 <script>
+import "@/assets/reset.css"
 import "@/assets/style.less"
 import Menu from "@/components/Menu";
 export default {

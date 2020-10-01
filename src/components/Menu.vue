@@ -1,13 +1,11 @@
 <template>
   <div class="main-menu">
-    <div class="logo">
-
-    </div>
+      <router-link to="/"> <div class="logo"></div> </router-link>
     <div class="menu">
       <ul>
         <li><router-link to="/theory">Теория</router-link></li>
         <li><router-link to="/practice">Практика</router-link></li>
-        <li><router-link to="/tests">Тесты</router-link></li>
+        <li><router-link to="/testik">Тесты</router-link></li>
         <li><router-link to="/library">Медиатека</router-link></li>
       </ul>
     </div>

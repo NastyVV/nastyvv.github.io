@@ -1,0 +1,62 @@
+.home-page {
+    background-image: url("../h1_hero.png");
+    height: 900px;
+    margin-top: -140px;
+    padding-top: 120px;
+    background-repeat: no-repeat;
+
+    .home-wrapper {
+        width: 1200px;
+        margin: 0px auto;
+
+        .home-offer {
+            margin-top: 140px;
+
+            .title {
+                font-size: 60px;
+                font-family: Roboto, sans-serif;
+                margin-bottom: 22px;
+                color: white;
+            }
+
+            .sub-title {
+                font-family: Roboto, sans-serif;
+                color: white;
+                font-size: 18px;
+            }
+        }
+        .home-items{
+            margin-top: 390px;
+            .home-item{
+                float:left;
+                background-color: white;
+                padding: 29px 24px;
+                border-radius: 17px;
+                width: calc(30%-24px*2);
+                margin-right: 5%;
+                box-shadow: 1px 1px 1px 1px #4255A4;
+                .name{
+                    font-weight: bold;
+                    color: #4255A4;
+                    font-family: Roboto, sans-serif;
+                    font-size: 18px;
+                    margin-bottom: 8px;
+                }
+                .sub-name{
+                    color: #4255A4;
+                    font-family: Roboto, sans-serif;
+                    font-size: 15px;
+                }
+            }
+            .home-item:last-child{
+                margin-right: 0%;
+            }
+        }
+        .home-items:after{
+            display: block;
+            clear: both;
+            content: "";
+        }
+    }
+}
+
