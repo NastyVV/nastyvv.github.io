@@ -24,7 +24,7 @@ const routes = [
     component: Practic
   },
   {
-    path: '/testik"',
+    path: '/testik',
     name: 'Testik',
     component: Testik
   },
