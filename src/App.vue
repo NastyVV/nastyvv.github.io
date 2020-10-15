@@ -10,6 +10,7 @@
 <script>
 import "@/assets/reset.css"
 import "@/assets/style.less"
+import "@/assets/media.less"
 import Menu from "@/components/Menu";
 export default {
   components: {Menu}
