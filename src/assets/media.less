@@ -25,10 +25,34 @@
     body .main-menu .menu ul li {
         margin-left: 38px;
     }
+    body .home-page .home-wrapper .home-items .home-item {
+        width: calc(100% - 24px * 2);
+        float: none;
+        margin-bottom: 15px;
+    }
+    body .home-page .home-wrapper .home-items {
+        margin-top: 265px;
+    }
 }
 @media (max-width: 1200px) {
-    body .home-wrapper {
+    body .home-page .home-wrapper {
         padding: 0 30px;
         max-width: calc(100% - 60px);
+    }
+}
+@media (max-width: 350px) {
+    body .home-page .home-wrapper .home-items {
+        margin-top: 178px;
+    }
+}
+@media (max-width: 460px) {
+    body .main-menu .menu ul li {
+        float: none;
+        margin-left: 0px;
+        margin-bottom: 10px;
+    }
+    body .main-menu .menu {
+        float: none;
+        margin-left: 24px;
     }
 }
