@@ -1,6 +1,10 @@
 <template>
   <div>
-    Teoriya
+    <div class="high-category">
+      <div class="text">
+        Теория
+      </div>
+    </div>
   </div>
 </template>
 

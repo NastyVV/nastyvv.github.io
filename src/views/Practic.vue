@@ -1,6 +1,10 @@
 <template>
   <div>
-    Practik
+    <div class="high-category">
+      <div class="text">
+        Практика
+      </div>
+    </div>
   </div>
 </template>
 

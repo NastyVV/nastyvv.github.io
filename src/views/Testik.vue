@@ -1,6 +1,10 @@
 <template>
   <div>
-    Testik
+    <div class="high-category">
+      <div class="text">
+        Тесты
+      </div>
+    </div>
   </div>
 </template>
 

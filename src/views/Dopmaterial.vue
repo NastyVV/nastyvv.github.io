@@ -1,6 +1,10 @@
 <template>
   <div>
-    Dopmaterial
+    <div class="high-category">
+      <div class="text">
+        Дополнительный материал
+      </div>
+    </div>
   </div>
 </template>
 
