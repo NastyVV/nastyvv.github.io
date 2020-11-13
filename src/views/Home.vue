@@ -20,8 +20,8 @@
                 <div class="home-item">
                     <div class="icon"></div>
                     <div class="right">
-                        <div class="name"> 90 минут </div>
-                        <div class="sub-name"> краткий курс для подготовки к ЕГЭ</div>
+                        <div class="name"> МКТ </div>
+                        <div class="sub-name"> все самое важное и полезное</div>
                     </div>
                 </div>
                 <div class="home-item">

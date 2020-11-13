@@ -5,6 +5,7 @@ import Dopmat from '../views/Dopmaterial.vue'
 import Practic from '../views/Practic.vue'
 import Testik from '../views/Testik.vue'
 import Teoriya from '../views/Teoriya.vue'
+import Struktura from '../views/Struktura.vue'
 Vue.use(VueRouter)
 
 const routes = [
@@ -32,6 +33,11 @@ const routes = [
     path: '/theory',
     name: 'Teoriya',
     component: Teoriya
+  },
+  {
+    path: '/struktura',
+    name: 'Strukura',
+    component: Struktura
   },
 ]
 
