@@ -27,8 +27,8 @@
                 <div class="home-item">
                     <div class="icon"></div>
                     <div class="right">
-                        <div class="name"> 90 минут </div>
-                        <div class="sub-name"> краткий курс для подготовки к ЕГЭ</div>
+                        <div class="name"> Все </div>
+                        <div class="sub-name"> Справочные материалы </div>
                     </div>
                 </div>
             </div>
