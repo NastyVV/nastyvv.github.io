@@ -33,6 +33,11 @@
                 </div>
             </div>
         </div>
+      <div class="video-wrapper">
+        <div class="video-block">
+          <i class="fas fa-play-circle"></i>
+        </div>
+      </div>
     </div>
 </template>
 
