@@ -7,47 +7,20 @@
       <div class="content-block">
         <div class="left-content-block">
           <div class="info-block">
-            <div class="h1">Задание 11. МКТ, термодинамика. Изменение физических величин в процессах</div>
-            <br>
-            Задание относится к базовому уровню сложности. За правильное выполнение получишь <span>2</span> балла.
-            <br>
-            На решение примерно отводится <span>3-5</span> минут.
-            <br>
-            Для выполнения задания 11 по физике необходимо знать:
-            <br>
-            • физ.величины и понимание физ.явлений.
-            <br>
-            • темы термодинамики и молекулярно кинетической теории.
-            <br>
-            • Тепловое равновесие.
-            <br>
-            • Тепловая мощность.
-            <br>
-            • Уравнение Менделеева – Клапейрона
-            <br>
-            • 2 закона термодинамики
+            <div class="q-line" v-for="(item,index) in GetFirstQuestions().questions " :key="item.q">
+              <div class="qname">
+                {{item.q}}
+              </div>
+              <div class="qanswer">
+                <input type="text" placeholder="Ответ" :data-key="'first_'+index">
+                <button @click="OnClickQuestionAnswer('first_'+index)"> Готово </button>
+              </div>
+            </div>
+            <button v-if="firstResponse.length==0" @click="OnClickFirstQuestionsComplete"> Завершить тест</button>
+            {{firstResponse}}
           </div>
 
           <div class="info-block">
-            <div class="h1">Задание 11. МКТ, термодинамика. Изменение физических величин в процессах</div>
-            <br>
-            Задание относится к базовому уровню сложности. За правильное выполнение получишь <span>2</span> балла.
-            <br>
-            На решение примерно отводится <span>3-5</span> минут.
-            <br>
-            Для выполнения задания 11 по физике необходимо знать:
-            <br>
-            • физ.величины и понимание физ.явлений.
-            <br>
-            • темы термодинамики и молекулярно кинетической теории.
-            <br>
-            • Тепловое равновесие.
-            <br>
-            • Тепловая мощность.
-            <br>
-            • Уравнение Менделеева – Клапейрона
-            <br>
-            • 2 закона термодинамики
           </div>
         </div>
 
@@ -67,10 +40,29 @@
 </template>
 
 <script>
-
+const qfile = require ('../data/test.js')
 
 export default {
   name: 'Testik' ,
+  data(){
+    return{
+      firstResponse: ""
+    }
+  },
+  methods: {
+    GetFirstQuestions() {
+      return qfile.default.firstgroup
+    },
+    OnClickFirstQuestionsComplete() {
+      for (let index in this.GetFirstQuestions() .questions)  {
+        this.OnClickQuestionAnswer("first_" +index)
+      }
+    },
+    OnClickQuestionAnswer(key){
+      console.log(key)
+      document.querySelector('input[data-key="'+key+'"]') .setAttribute('readonly', 'readonly')
+    }
+  }
 
 }
 </script>
