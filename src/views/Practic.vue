@@ -4,6 +4,7 @@
       <div class="text">
         Практика
       </div>
+    </div>
       <div class="content-block">
         <div class="left-content-block">
           <div class="info-block">
@@ -63,7 +64,6 @@
         </div>
       </div>
     </div>
-  </div>
 </template>
 
 <script>

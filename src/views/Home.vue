@@ -35,7 +35,9 @@
         </div>
       <div class="video-wrapper">
         <div class="video-block">
-          <i class="fas fa-play-circle"></i>
+          <a data-fancybox href="https://youtu.be/17dz86p4Gxc">
+            <i class="fas fa-play-circle"></i>
+          </a>
         </div>
       </div>
     </div>
