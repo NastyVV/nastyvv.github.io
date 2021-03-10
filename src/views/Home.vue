@@ -11,25 +11,28 @@
             </div>
             <div class="home-items">
                 <div class="home-item">
-                    <div class="icon"></div>
+                  <a href="/assets/teoriya.pdf">
                     <div class="right">
                         <div class="name"> 90 минут </div>
                         <div class="sub-name"> краткий курс для подготовки к ЕГЭ</div>
                     </div>
+                    </a>
                 </div>
                 <div class="home-item">
-                    <div class="icon"></div>
+                  <a href="/assets/fipistruktura.pdf">
                     <div class="right">
                         <div class="name"> МКТ </div>
                         <div class="sub-name"> все самое важное и полезное</div>
                     </div>
+                  </a>
                 </div>
                 <div class="home-item">
-                    <div class="icon"></div>
+                  <a href="/assets/cpravmat.pdf">
                     <div class="right">
                         <div class="name"> Все </div>
                         <div class="sub-name"> Справочные материалы </div>
                     </div>
+                  </a>
                 </div>
             </div>
         </div>
