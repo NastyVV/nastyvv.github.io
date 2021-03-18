@@ -42,13 +42,20 @@
           <br>
           <i>Относительной молекулярной массой M<span>r</span> называют отношение массы mo молекулы к 1/12 массы атома углерода m<span>oc</span>:</i>
           <br>
-          формула
+<div class="imageteoria">
+          <img src="../assets/1.png">
+</div>
           <br>
           Количество вещества в молекулярной физике принято измерять в молях.
           <br>
           Молем ν называется количество вещества, в котором содержится столько же атомов или молекул (структурных единиц), сколько их содержится в 12 г углерода. Это число атомов в 12 г углерода называется числом Авогадро:
           <br>
-          формула
+          <div class="imageteoria">
+            <img src="../assets/2.png">
+          </div>
+          <div class="imageteoria">
+            <img src="../assets/3.png">
+          </div>
           <br>
         </div>
       </div>
@@ -62,6 +69,9 @@
         <div class="test-block"><a href="#">5</a></div>
         <div class="test-block"><a href="#">6</a></div>
       </div>
+    </div>
+    <div class="vverh"><a href="#"></a>
+      Наверх ↑
     </div>
   </div>
 </template>

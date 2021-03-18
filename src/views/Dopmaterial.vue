@@ -63,6 +63,9 @@
         </div>
       </div>
     </div>
+    <div class="vverh"><a href="#"></a>
+      Наверх ↑
+    </div>
   </div>
 </template>
 

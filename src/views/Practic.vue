@@ -53,16 +53,19 @@
         </div>
 
         <div class="mainmenu-block">
+          <div class="test-block"><a href="/assets/fizika-osnovy-mkt-obuchenie.pdf" target="_blank">Обучающие задания по МКТ</a></div>
           <div class="test-block">
-            <a href="#">Задание 11. МКТ, термодинамика. Изменение физических величин в процессах</a>
+            <a href="/assets/fizika-osnovy-mkt-trenirovka.pdf" target="_blank">Тренировочные задания по МКТ</a>
           </div>
-          <div class="test-block"><a href="#">2</a></div>
-          <div class="test-block"><a href="#">3</a></div>
-          <div class="test-block"><a href="#">4</a></div>
-          <div class="test-block"><a href="#">5</a></div>
-          <div class="test-block"><a href="#">6</a></div>
+          <div class="test-block"><a href="/assets/fizika-osnovy-mkt-kontrol.pdf" target="_blank">Контрольные задания по МКТ</a></div>
+          <div class="test-block"><a href="/assets/fizika-termodinamika-obuchenie.pdf" target="_blank">Обучающие задания на тему «Термодинамика»</a></div>
+          <div class="test-block"><a href="/assets/fizika-termodinamika-trenirovka.pdf" target="_blank">Тренировочные задания на тему «Термодинамика»</a></div>
+          <div class="test-block"><a href="/assets/fizika-termodinamika-kontrol.pdf" target="_blank">Контрольные задания на тему «Термодинамика»</a></div>
         </div>
       </div>
+    <div class="vverh"><a href="#"></a>
+      Наверх ↑
+    </div>
     </div>
 </template>
 
