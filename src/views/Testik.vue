@@ -14,6 +14,7 @@
               <div class="qanswer">
                 <input type="text" placeholder="Ответ" :data-key="'first_'+index">
                 <button @click="OnClickQuestionAnswer('first_'+index)"> Готово </button>
+                <span class="answer"></span>
               </div>
             </div>
             <button v-if="firstResponse.length==0" @click="OnClickFirstQuestionsComplete"> Завершить тест</button>
@@ -46,7 +47,8 @@ export default {
   name: 'Testik' ,
   data(){
     return{
-      firstResponse: ""
+      firstResponse: "",
+      answers:{}
     }
   },
   methods: {
@@ -56,10 +58,23 @@ export default {
     OnClickFirstQuestionsComplete() {
       for (let index in this.GetFirstQuestions() .questions)  {
         this.OnClickQuestionAnswer("first_" +index)
+        const value= this.answers["first_" +index]
+        const answerEl=document.querySelector('input[data-key="first_'+index+'"]').parentElement.querySelector('span')
+        if (this.GetFirstQuestions().questions[index].a==value) {
+          answerEl.innerHTML="Правильно!"
+          answerEl.classList.add('green')
+        }
+        else
+        {
+          answerEl.innerHTML="Правильный ответ: "+this.GetFirstQuestions().questions[index].a
+          answerEl.classList.add('red')
+        }
       }
+      console.log(this.answers)
     },
     OnClickQuestionAnswer(key){
       console.log(key)
+      this.answers[key]=document.querySelector('input[data-key="'+key+'"]').value
       document.querySelector('input[data-key="'+key+'"]') .setAttribute('readonly', 'readonly')
     }
   }
