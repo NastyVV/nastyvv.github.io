@@ -2,7 +2,7 @@
   <div>
     <div class="high-category">
       <div class="text">
-        Тесты
+        Заключительный тест
       </div>
       <div class="content-block">
         <div class="left-content-block">

@@ -5,7 +5,7 @@
       <ul>
         <li><router-link to="/theory">Теория</router-link></li>
         <li><router-link to="/practice">Практика</router-link></li>
-        <li><router-link to="/testik">Тесты</router-link></li>
+        <li><router-link to="/testik">Тест</router-link></li>
         <li><router-link to="/library">Медиатека</router-link></li>
       </ul>
     </div>

@@ -64,9 +64,7 @@
           <div class="test-block"><a href="/dist/assets/fizika-termodinamika-kontrol.pdf" target="_blank">Контрольные задания на тему «Термодинамика»</a></div>
         </div>
       </div>
-    <div class="vverh"><a href="#"></a>
-      Наверх ↑
-    </div>
+    <div class="vverh"><a href="#">Наверх ↑</a></div>
     </div>
 </template>
 
