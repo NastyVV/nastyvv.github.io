@@ -7,11 +7,12 @@
       <div class="content-block">
         <div class="left-content-block">
           <div class="info-block">
-            <a data-fancybox href="https://youtu.be/WK9Ae3Bu1PI">
             <div class="h1"> Основные положения МКТ </div>
-            </a>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/WK9Ae3Bu1PI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
+          <div class="h1"> Решение задач на МКТ </div>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/tboX-WVFfZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
 
           <div class="info-block">
             <div class="h1">Задание 11. МКТ, термодинамика. Изменение физических величин в процессах</div>
