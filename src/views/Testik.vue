@@ -27,13 +27,8 @@
 
         <div class="mainmenu-block">
           <div class="test-block">
-            <a href="#">Задание 11. МКТ, термодинамика. Изменение физических величин в процессах</a>
+            <a href="#">К первому вопросу</a>
           </div>
-          <div class="test-block"><a href="#">2</a></div>
-          <div class="test-block"><a href="#">3</a></div>
-          <div class="test-block"><a href="#">4</a></div>
-          <div class="test-block"><a href="#">5</a></div>
-          <div class="test-block"><a href="#">6</a></div>
         </div>
       </div>
     </div>
