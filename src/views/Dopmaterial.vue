@@ -4,6 +4,7 @@
       <div class="text">
         Дополнительный материал
       </div>
+    </div>
       <div class="content-block">
         <div class="left-content-block">
           <div class="info-block">
@@ -16,6 +17,11 @@
           <div class="h1"> Решение задач на МКТ </div>
           <iframe width="560" height="315" src="https://www.youtube.com/embed/tboX-WVFfZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
+          <div class="info-block">
+            <p><a name="3"></a></p>
+            <div class="h1"> Термодинамика 1 </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ELKTGvbBn2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
 
 
           <div class="info-block">
@@ -46,7 +52,7 @@
             <a href="#1">Основные положения МКТ</a>
           </div>
           <div class="test-block"><a href="#2">Решение задач на МКТ</a></div>
-          <div class="test-block"><a href="#">3</a></div>
+          <div class="test-block"><a href="#3">Термодинамика 1</a></div>
           <div class="test-block"><a href="#">4</a></div>
           <div class="test-block"><a href="#">5</a></div>
           <div class="test-block"><a href="#">6</a></div>
@@ -54,7 +60,6 @@
       </div>
       <div class="vverh"><a href="#">Наверх ↑</a></div>
     </div>
-  </div>
 </template>
 
 <script>

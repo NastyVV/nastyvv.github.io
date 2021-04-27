@@ -31,6 +31,7 @@
           </div>
         </div>
       </div>
+      <div class="vverh"><a href="#">Наверх ↑</a></div>
     </div>
   </div>
 </template>
