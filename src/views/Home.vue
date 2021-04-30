@@ -11,7 +11,7 @@
             </div>
             <div class="home-items">
                 <div class="home-item">
-                  <a href="/assets/teoriya.pdf" target="_blank">
+                  <a href="/dist//assets/teoriya.pdf" target="_blank">
                     <div class="right">
                         <div class="name"> 90 минут </div>
                         <div class="sub-name"> краткий курс для подготовки к ЕГЭ</div>
@@ -19,7 +19,7 @@
                     </a>
                 </div>
                 <div class="home-item">
-                  <a href="/assets/fipistruktura.pdf" target="_blank">
+                  <a href="/dist//assets/fipistruktura.pdf" target="_blank">
                     <div class="right">
                         <div class="name"> Всё</div>
                         <div class="sub-name"> что нужно знать</div>
@@ -27,7 +27,7 @@
                   </a>
                 </div>
                 <div class="home-item">
-                  <a href="/assets/cpravmat.pdf" target="_blank">
+                  <a href="/dist//assets/cpravmat.pdf" target="_blank">
                     <div class="right">
                         <div class="name"> Все </div>
                         <div class="sub-name"> Справочные материалы </div>

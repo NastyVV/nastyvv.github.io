@@ -26,8 +26,15 @@
         </div>
 
         <div class="mainmenu-block">
-          <div class="test-block">
-            <a href="#">К первому вопросу</a>
+          <div class="mainmenu-block">
+            <div class="test-block"><a href="/dist/assets/fizika-osnovy-mkt-obuchenie.pdf" target="_blank">Обучающие задания по МКТ</a></div>
+            <div class="test-block">
+              <a href="/dist/assets/fizika-osnovy-mkt-trenirovka.pdf" target="_blank">Тренировочные задания по МКТ</a>
+            </div>
+            <div class="test-block"><a href="/dist/assets/fizika-osnovy-mkt-kontrol.pdf" target="_blank">Контрольные задания по МКТ</a></div>
+            <div class="test-block"><a href="/dist/assets/fizika-termodinamika-obuchenie.pdf" target="_blank">Обучающие задания на тему «Термодинамика»</a></div>
+            <div class="test-block"><a href="/dist/assets/fizika-termodinamika-trenirovka.pdf" target="_blank">Тренировочные задания на тему «Термодинамика»</a></div>
+            <div class="test-block"><a href="/dist/assets/fizika-termodinamika-kontrol.pdf" target="_blank">Контрольные задания на тему «Термодинамика»</a></div>
           </div>
         </div>
       </div>
