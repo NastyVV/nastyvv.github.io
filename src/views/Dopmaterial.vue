@@ -19,8 +19,13 @@
         </div>
           <div class="info-block">
             <p><a name="3"></a></p>
-            <div class="h1"> Термодинамика 1 </div>
+            <div class="h1"> Термодинамика  </div>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/ELKTGvbBn2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="info-block">
+            <p><a name="4"></a></p>
+            <div class="h1"> Правильное оформление заданий второй части </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Amw9nFnAfik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
 
 
