@@ -57,8 +57,8 @@
             <a href="#1">Основные положения МКТ</a>
           </div>
           <div class="test-block"><a href="#2">Решение задач на МКТ</a></div>
-          <div class="test-block"><a href="#3">Термодинамика 1</a></div>
-          <div class="test-block"><a href="#">4</a></div>
+          <div class="test-block"><a href="#3">Термодинамика </a></div>
+          <div class="test-block"><a href="#4">Правильное оформление заданий второй части</a></div>
           <div class="test-block"><a href="#">5</a></div>
           <div class="test-block"><a href="#">6</a></div>
         </div>
