@@ -77,8 +77,7 @@
             <div class="info-block-img">
             <img src="../assets/31.png" >
           </div>
-          <div class="info-block-text">
-            <pre>
+          <div class="info-block-text"><pre>
 
    Молярная масса M = Mr · 10−3 кг/моль — это масса одного моля вещества.
   Количество молей в веществе можно рассчитать по формуле:</pre>
@@ -86,16 +85,14 @@
           <div class="info-block-img">
             <img src="../assets/32.png" >
           </div>
-          <div class="info-block-text">
-            <pre>
+          <div class="info-block-text"><pre>
 
    Основное уравнение молекулярно-кинетической теории идеального газа:</pre>
           </div>
           <div class="info-block-img">
             <img src="../assets/33.png" >
           </div>
-          <div class="info-block-text">
-            <pre>
+          <div class="info-block-text"><pre>
 
    <span>где m0 — масса молекулы; n — концентрация молекул; Ṽ — средняя
   квадратичная скорость движения молекул.</span></pre>
@@ -110,8 +107,7 @@
           <div class="info-block-img">
             <img src="../assets/34.png" >
           </div>
-          <div class="info-block-text">
-          <pre>
+          <div class="info-block-text"><pre>
 
    Изотермический процесс (закон Бойля-Мариотта):
   <span>Для данной массы газа при неизменной температуре произведение давления
@@ -120,16 +116,14 @@
           <div class="info-block-img">
             <img src="../assets/35.png" >
           </div>
-          <div class="info-block-text">
-          <pre>
+          <div class="info-block-text"><pre>
 
  <span>В координатах p−V изотерма—гипербола, а в координатах V−T и p−T—прямые</span></pre>
           </div>
           <div class="info-block-img">
             <img src="../assets/36.png" >
           </div>
-          <div class="info-block-text">
-          <pre>
+          <div class="info-block-text"><pre>
 
   Изохорный процесс (закон Шарля):
  <span>Для данной массы газа при неизменном объёме отношение давления к
@@ -142,8 +136,7 @@
           <div class="info-block-img">
             <img src="../assets/38.png" >
           </div>
-          <div class="info-block-text">
-          <pre>
+          <div class="info-block-text"><pre>
 
   Изобарный процесс (закон Гей-Люссака):
  <span>Для данной массы газа при неизменном давлении отношение объёма газа к
@@ -155,8 +148,7 @@
             <div class="info-block-img">
               <img src="../assets/40.png" >
             </div>
-            <div class="info-block-text">
-          <pre>
+            <div class="info-block-text"><pre>
 
   Закон Дальтона:
  <span>Если в сосуде находится смесь нескольких газов, то давление смеси равно
@@ -167,8 +159,7 @@
         <div class="info-block">
           <p><a name="4"></a></p>
           <div class="h1">Элементы термодинамики</div>
-          <div class="info-block-text">
-          <pre>
+          <div class="info-block-text"><pre>
 
   Внутренняя энергия тела равна сумме кинетических энергий беспорядочного
  движения всех молекул относительно центра масс тела и потенциальных
@@ -184,8 +175,7 @@
           <div class="info-block-img">
             <img src="../assets/41.png" >
           </div>
-          <div class="info-block-text">
-          <pre>
+          <div class="info-block-text"><pre>
 
   Количеством теплоты Q называют количественную меру изменения
  внутренней энергии при теплообмене без совершения работы.
@@ -195,8 +185,7 @@
           <div class="info-block-img">
             <img src="../assets/42.png" >
           </div>
-          <div class="info-block-text">
-          <pre>
+          <div class="info-block-text"><pre>
 
   <span>Работа в термодинамике:</span>
  работа при изобарном расширении газа равна произведению давления газа
@@ -205,8 +194,7 @@
           <div class="info-block-img">
             <img src="../assets/43.png">
           </div>
-          <div class="info-block-text">
-          <pre>
+          <div class="info-block-text"><pre>
 
   <span>Закон сохранения энергии в тепловых процессах (первый закон
  термодинамики):</span>
@@ -217,8 +205,7 @@
           <div class="info-block-img">
             <img src="../assets/44.png">
           </div>
-          <div class="info-block-text">
-          <pre>
+          <div class="info-block-text"><pre>
 
   Применение первого закона термодинамики к изопроцессам:
 
@@ -228,8 +215,7 @@
           <div class="info-block-img">
             <img src="../assets/45.png">
           </div>
-          <div class="info-block-text">
-          <pre>
+          <div class="info-block-text"><pre>
 
   <span>Следовательно: Q = A.</span>
 
@@ -241,8 +227,7 @@
           <div class="info-block-img">
             <img src="../assets/46.png">
           </div>
-          <div class="info-block-text">
-          <pre>
+          <div class="info-block-text"><pre>
 
   <span>Следовательно, ∆U = Q.</span>
 
@@ -254,8 +239,7 @@
           <div class="info-block-img">
             <img src="../assets/47.png">
           </div>
-          <div class="info-block-text">
-          <pre>
+          <div class="info-block-text"><pre>
 
   Адиабатным называется процесс, происходящий без теплообмена с
  окружающей средой:</pre></div>
@@ -273,8 +257,7 @@
           <div class="info-block-img">
             <img src="../assets/49.png">
           </div>
-          <div class="info-block-text">
-          <pre>
+          <div class="info-block-text"><pre>
 
   Количество теплоты, необходимое для нагревания тела в твёрдом или
  жидком состоянии в пределах одного агрегатного состояния, рассчитывается
@@ -282,8 +265,7 @@
           <div class="info-block-img">
             <img src="../assets/50.png">
           </div>
-          <div class="info-block-text">
-          <pre>
+          <div class="info-block-text"><pre>
 
   <span>где c — удельная теплоёмкость тела, m — масса тела, t1 — начальная
  температура, t2 — конечная температура.</span>
@@ -293,8 +275,7 @@
           <div class="info-block-img">
             <img src="../assets/51.png">
           </div>
-          <div class="info-block-text">
-          <pre>
+          <div class="info-block-text"><pre>
 
   <span>где λ — удельная теплота плавления, m — масса тела.</span>
 
@@ -323,8 +304,7 @@
           <div class="info-block-img">
             <img src="../assets/54.png">
           </div>
-          <div class="info-block-text">
-          <pre>
+          <div class="info-block-text"><pre>
 
   В воздухе, представляющем из себя смесь газов, наряду с другими газами
  находятся водяные пары. Их содержание принято характеризовать термином
@@ -344,6 +324,84 @@
             <img src="../assets/55.png">
           </div>
         </div>
+        <div class="info-block">
+          <p><a name="5"></a></p>
+          <div class="h1">Другие важные формулы, нужные для решения задач на МКТ и Термодинамику</div>
+          <div class="info-block-text"><pre>
+
+1.Уравнение Менделеева-Клапейрона
+          </pre></div>
+          <div class="info-block-img">
+            <img src="../assets/61.png">
+          </div>
+          <br>
+          <div class="info-block-text"><pre>
+
+2.Объединенный закон газового состояния (уравнение Клапейрона)
+          </pre></div>
+          <div class="info-block-img">
+            <img src="../assets/62.png">
+          </div>
+          <br>
+          <div class="info-block-text"><pre>
+
+3.Внутренняя энергия идеального одноатомного газа
+          </pre></div>
+          <div class="info-block-img">
+            <img src="../assets/63.png">
+          </div>
+          <br>
+          <div class="info-block-text"><pre>
+
+4.Теплоемкость идеального газа
+          </pre></div>
+          <div class="info-block-img">
+            <img src="../assets/64.png">
+          </div>
+          <br>
+          <div class="info-block-text"><pre>
+
+5.Средняя кинетическая энергия молекулы одноатомного газа
+          </pre></div>
+          <div class="info-block-img">
+            <img src="../assets/65.png">
+          </div>
+          <br>
+          <div class="info-block-text"><pre>
+
+6.Средняя квадратичная скорость молекул идеального газа
+          </pre></div>
+          <div class="info-block-img">
+            <img src="../assets/66.png">
+          </div>
+          <br>
+          <div class="info-block-text"><pre>
+
+7.Основное уравнение молекулярно-кинетической теории идеального газа
+          </pre></div>
+          <div class="info-block-img">
+            <img src="../assets/67.png">
+          </div>
+        </div>
+        <div class="info-block">
+          <p><a name="6"></a></p>
+          <div class="h1">Постоянные для решения задач</div>
+          <div class="info-block-img">
+            <img src="../assets/56.png">
+          </div>
+          <div class="info-block-img">
+            <img src="../assets/57.png">
+          </div>
+          <div class="info-block-img">
+            <img src="../assets/58.png">
+          </div>
+          <div class="info-block-img">
+            <img src="../assets/59.png">
+          </div>
+          <div class="info-block-img">
+            <img src="../assets/ 60.png">
+          </div>
+        </div>
       </div>
 
       <div class="mainmenu-block">
@@ -352,8 +410,8 @@
         <div class="test-block"><a href="#2">МКТ, термодинамика (изменение физических величин в процессах)</a></div>
         <div class="test-block"><a href="#3">Газовые законы</a></div>
         <div class="test-block"><a href="#4">Элементы термодинамики</a></div>
-        <div class="test-block"><a href="#">5</a></div>
-        <div class="test-block"><a href="#">Постоянные для решения задач</a></div>
+        <div class="test-block"><a href="#5">Другие важные формулы</a></div>
+        <div class="test-block"><a href="#6">Постоянные для решения задач</a></div>
       </div>
     </div>
     <div class="vverh"><a href="#">Наверх ↑</a></div>
