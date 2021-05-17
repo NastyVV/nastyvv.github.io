@@ -30,25 +30,11 @@
 
 
           <div class="info-block">
-            <div class="h1">Задание 11. МКТ, термодинамика. Изменение физических величин в процессах</div>
-            <br>
-            Задание относится к базовому уровню сложности. За правильное выполнение получишь <span>2</span> балла.
-            <br>
-            На решение примерно отводится <span>3-5</span> минут.
-            <br>
-            Для выполнения задания 11 по физике необходимо знать:
-            <br>
-            • физ.величины и понимание физ.явлений.
-            <br>
-            • темы термодинамики и молекулярно кинетической теории.
-            <br>
-            • Тепловое равновесие.
-            <br>
-            • Тепловая мощность.
-            <br>
-            • Уравнение Менделеева – Клапейрона
-            <br>
-            • 2 закона термодинамики
+            <p><a name="5"></a></p>
+            <div class="h1">Источники информации, расположенной на сайте</div>
+            <div class="ssa"><br><a href="https://phys-ege.sdamgia.ru/">Решу ЕГЭ</a></div>
+            <div class="ssa"><br><a href="https://ege-study.ru/ru/ege/materialy/fizika/">EGE-study</a></div>
+            <div class="ssa"><br><a href="https://examer.ru/ege_po_fizike/teoriya/mkt">Examer</a></div>
           </div>
         </div>
 
@@ -59,8 +45,7 @@
           <div class="test-block"><a href="#2">Решение задач на МКТ</a></div>
           <div class="test-block"><a href="#3">Термодинамика </a></div>
           <div class="test-block"><a href="#4">Правильное оформление заданий второй части</a></div>
-          <div class="test-block"><a href="#">5</a></div>
-          <div class="test-block"><a href="#">6</a></div>
+          <div class="test-block"><a href="#5">Источники</a></div>
         </div>
       </div>
       <div class="vverh"><a href="#">Наверх ↑</a></div>
